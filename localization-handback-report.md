@@ -1,24 +1,11 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 1
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [dsc\fileResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/785ce8dba66df50f96f174ac0b91fb7de74ad823/dsc/fileResource.md) | InSyncHandedBackSuccess | [Details](#ce115dd79b0793718f8e79bb465f244b7cc725b118)
 
 ## Item Details
-##### <a name='ce115dd79b0793718f8e79bb465f244b7cc725b118'></a> Source: [dsc\fileResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/785ce8dba66df50f96f174ac0b91fb7de74ad823/dsc/fileResource.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [dsc\fileResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.fr-fr/blob/ce3d1444cd89f17db51584e7c6d5b3f2300d19aa/dsc/fileResource.md)
-* Handoff File: [fileResource.ad0d9bba41b615db808e5dfc814b50945863b3da.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/70a68d840d676a2ff02127a51e2d28597df0b007/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.fr-fr/master/fileResource.ad0d9bba41b615db808e5dfc814b50945863b3da.fr-fr.xlf)
-* Handoff Datetime: 2016-01-05 07:27:06
-* Handoff Reason: Include
-* Handback File: [fileResource.ad0d9bba41b615db808e5dfc814b50945863b3da.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/8a4852044808277dce67b312909fca59afff214d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.fr-fr/master/fileResource.ad0d9bba41b615db808e5dfc814b50945863b3da.fr-fr.xlf)
-* Handback Datetime: 2016-01-05 07:35:09
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
