@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "856812d67956331c4bb552ec572192134ad477be",
-  "LastTranslatedCommit": "e1823696c343917267aa2213b195fa2578c92907",
+  "LastTranslatedCommit": "5f63a230ffdbb65b76ff1aa1f388fdd7510748be",
   "Items": {
     "c3b8854dbecd4ab03e46c51a23ac00461bdd7014": {
       "FileHash": "c3b8854dbecd4ab03e46c51a23ac00461bdd7014",
@@ -445,7 +445,7 @@
       "TargetFilePath": "dsc\\fileResource.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.fr-fr\\master\\fileResource.ad0d9bba41b615db808e5dfc814b50945863b3da.fr-fr.xlf",
       "HandbackFileCommit": "8a4852044808277dce67b312909fca59afff214d",
-      "HandbackDateTime": "2016-02-22T08:54:29.6012656Z",
+      "HandbackDateTime": "2016-02-22T08:58:39.4144483Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -455,7 +455,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 2,
+      "HandbackFailureTimes": 3,
       "UpdatedDateTime": "2016-01-05T07:35:09.4497414Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
